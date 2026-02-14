@@ -11,10 +11,10 @@ I'm Sabari Nathan, a BE student learning web development and building projects.
 * JavaScript (Learning)
 
 ## Projects
-1. Portfolio Website - [Sabari's Portfolio](https://sabari957.github.io/OIB-SIP_Web_Development_Level1_Task2/Portfolio/)
+1. Portfolio Website - [http://127.0.0.1:5500/index.html]
 2. BMI Calculator [created using python]
 3. A Basic Client-Server Chat Application [created using python]
-4. A tribute page using HTML and CSS - [Tribute Page](https://sabari957.github.io/OIB-SIP_Web_Development_Level1_Task2/Tribute%20page/)
+4. A tribute page using HTML and CSS - [http://127.0.0.1:5500/index.html]
 
 ## Contact
 Email: sn389654@email.com
